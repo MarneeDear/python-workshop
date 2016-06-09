@@ -17,8 +17,8 @@ cd python-workshop     # Make sure you are in the python-workshop directory
 jupyter notebook   
 ```
 or
-``
-cd python-workshop`
+```
+cd python-workshop
 ipython notebook
 ```
 
